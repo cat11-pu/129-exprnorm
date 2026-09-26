@@ -1,0 +1,5 @@
+{
+  "expr_error_code": "E_BAD_EXPR",
+  "balance_error_code": "E_UNBALANCED",
+  "expressions": ["  (a + b) * c  ", "a + (b * c)", "((x))", "a * (b + c)"]
+}
